@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\ConsoleInterface2\ConsoleInterface2\obj\Debug\ConsoleInterface2.csprojResolveAssemblyReference.cache
+C:\Users\Ben\source\repos\ConsoleInterface2\ConsoleInterface2\obj\Debug\ConsoleInterface2.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\ConsoleInterface2\ConsoleInterface2\bin\Debug\ConsoleInterface2.exe.config
+C:\Users\Ben\source\repos\ConsoleInterface2\ConsoleInterface2\bin\Debug\ConsoleInterface2.exe
+C:\Users\Ben\source\repos\ConsoleInterface2\ConsoleInterface2\bin\Debug\ConsoleInterface2.pdb
+C:\Users\Ben\source\repos\ConsoleInterface2\ConsoleInterface2\obj\Debug\ConsoleInterface2.exe
+C:\Users\Ben\source\repos\ConsoleInterface2\ConsoleInterface2\obj\Debug\ConsoleInterface2.pdb
